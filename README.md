@@ -61,7 +61,7 @@ for letter in fletters:
 print(f"Инициалы: {str_fletters}")
 print(f"Длина (символов): {len(FIO_2)}")
 ```
-![Картинка 5]# python_labs
+![Картинка 5]<img width="371" height="75" alt="Снимок экрана 2025-12-17 111450" src="https://github.com/user-attachments/assets/d841f5e0-aa93-47bb-a06e-a975fd361287" /># python_labs
 
 
 
