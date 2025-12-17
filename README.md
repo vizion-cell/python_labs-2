@@ -33,7 +33,8 @@ print (f"База после скидки: {base:.2f} ₽\n"
        f"НДС: {vat_amount:.2f} ₽\n"
        f"Итого к оплате: {total:.2f} ₽\n")
 ```
-![Картинка 3])# python_labs
+![Картинка 3])<img width="372" height="167" alt="Снимок экрана 2025-12-17 110951" src="https://github.com/user-attachments/assets/05a55785-2f0b-4cb6-9541-c62383a1342d" />
+# python_labs
 
 ### Задание 4
 ```python
