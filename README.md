@@ -8,7 +8,8 @@ name = (input("Имя: "))
 age = int(input("Возраст: "))
 print (f"Привет, {name}! Через год тебе будет {age+1}.")
 ```
-![Картинка 1]<img width="1298" height="125" alt="02" src="https://github.com/user-attachments/assets/536d19eb-be86-467c-ab78-3142f6fd270e" /># python_labs
+![Картинка 1]<img width="1321" height="103" alt="01" src="https://github.com/user-attachments/assets/95efa8c1-b72f-4d2e-948b-2e28c4b97fd3" />
+# python_labs
 
 ### Задание 2
 ```python
@@ -18,7 +19,7 @@ sum = a + b
 average = sum /2
 print (f"sum - {round(sum, 2)}; average - {round(average, 2)}")
 ```
-![Картинка 2](./images/lab01/02.png)# python_labs
+![Картинка 2]<img width="1298" height="125" alt="02" src="https://github.com/user-attachments/assets/536d19eb-be86-467c-ab78-3142f6fd270e" /># python_labs
 
 ### Задание 3
 ```python
@@ -32,7 +33,7 @@ print (f"База после скидки: {base:.2f} ₽\n"
        f"НДС: {vat_amount:.2f} ₽\n"
        f"Итого к оплате: {total:.2f} ₽\n")
 ```
-![Картинка 3](./images/lab01/03.png)# python_labs
+![Картинка 3])# python_labs
 
 ### Задание 4
 ```python
@@ -41,7 +42,7 @@ hour = m // 60
 min = m % 60
 print (f"{hour}:{min:02d}")
 ```
-![Картинка 4](./images/lab01/04.png)# python_labs
+![Картинка 4]# python_labs
 
 ### Задание 5
 ```python
@@ -58,7 +59,7 @@ for letter in fletters:
 print(f"Инициалы: {str_fletters}")
 print(f"Длина (символов): {len(FIO_2)}")
 ```
-![Картинка 5](./images/lab01/05.png)# python_labs
+![Картинка 5]# python_labs
 
 
 
@@ -123,7 +124,7 @@ show_flatten([[1], [23, 73], (43, 53)])
 show_flatten([[1], [6, 5], [1]])
 show_flatten([[1, 2], "strcmp"])
 ```
-![Картинка 1](./images/lab02/arrays.png)# python_labs
+![Картинка 1]# python_labs
 
 ### Задание 2
 ```python
@@ -211,7 +212,7 @@ show_col_sums([[-1, 4], [8, -10]])
 show_col_sums([[0, 0], [0, 0]]) 
 show_col_sums([[1, 2], [5]])    
 ```
-![Картинка 2](./images/lab02/matrix.png)# python_labs
+![Картинка 2]# python_labs
 
 ### Задание 3
 ```python
@@ -237,7 +238,7 @@ print(format_record(("Петров Пётр Петрович", "ИКВО-12", 5.
 print(format_record(("  сидорова   анна  сергеевна ", "ABB-01", 3.999)))
 print(format_record((" ", "BVIT-25", 4.6)))
 ```
-![Картинка 3](./images/lab02/tuples.png)# python_labs
+![Картинка 3]# python_labs
 
 ## Лабораторная работа 3
 
