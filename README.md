@@ -43,7 +43,8 @@ hour = m // 60
 min = m % 60
 print (f"{hour}:{min:02d}")
 ```
-![Картинка 4]# python_labs
+![Картинка 4]<img width="395" height="78" alt="Снимок экрана 2025-12-17 111305" src="https://github.com/user-attachments/assets/72067f8a-2d06-411c-8237-7df6d95c59b3" />
+# python_labs
 
 ### Задание 5
 ```python
